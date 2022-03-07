@@ -1,5 +1,5 @@
 
-# `Various topics in python programming`
+## `Various topics in python programming and machine learning`
 
 This repository contains various topics in python programming. These are things that are not generally covered in a first python programming course.
 
